@@ -3,9 +3,10 @@
 Please check if your PR fulfills the following requirements:
 
 - [Carbon](https://carbon.now.sh) Requirements
-- [ ] Select `Dracula` Theme
-- [ ] Select right `programming language`
-- [ ] Set `largest` font size
+- [ ] Same settings should be selected as the visual
+![alt text][CarbonSettings]
+
+[CarbonSettings]: /icons/CarbonSettings.png
 
 - Commit requirements
 - [ ] Image should be added to `screenshots` folder
